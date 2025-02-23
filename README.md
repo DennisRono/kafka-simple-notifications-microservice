@@ -38,8 +38,8 @@ event-driven-system/
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/DennisRono/event-driven-system.git
-   cd event-driven-system
+   git clone https://github.com/DennisRono/kafka-simple-notifications-microservice.git
+   cd kafka-simple-notifications-microservice
    ```
 
 2. **Create a `.env` file** in the root directory with the following content:
